@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-	<addon id="skin.aeonmq6MOD" version="6.0.1" name="Aeon MQ 6 MOD" provider-name="MarcosQui">
+	<addon id="skin.aeonmq6MOD.ru" version="6.0.1" name="Aeon MQ 6 MOD" provider-name="MarcosQui">
 	<requires>
 	<import addon="xbmc.gui" version="5.10.0"/>
 	<import addon="service.skin.widgets" version="0.0.30"/>
